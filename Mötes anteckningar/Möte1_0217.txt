@@ -1,0 +1,13 @@
+1. Grund idé väldigt lik projekt 1.3
+Därav gör närmare granskning av 1.3s faktiska betygskrav för lättare jämförelse.
+
+2. UI element & Multi-plattforms resultat, kräver själv studier.
+Kan vara intressant att titta på själv i början av projektet för att se om det rent praktiskt går att genomföra senare under projektets gång. Till en början ser det inte jätte lovande ut.
+
+3. Ambitionsnivå:
+Gör något kul som uppfyller minst 3.
+
+4. nånting nånting
+
+5. Boka nytt möte till nästa vecka när lite mer arbete gjorts.
+Återkom angående progress för punkt 2.
