@@ -1,0 +1,9 @@
+1. Återkoppling
+Går igenom allt från senaste mötet
+
+2. Frekvens detektering
+
+3. Samla många mätdatan för utvärdering av prestanda.
+
+4. Boka nytt möte till nästa vecka när lite mer arbete gjorts.
+Återkom angående progress för punkt 2.
